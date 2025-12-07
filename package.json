@@ -1,0 +1,21 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "firebase-admin": "^13.5.0",
+    "firebase-functions": "^6.6.0",
+    "googleapis": "^164.1.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.10"
+  }
+}
